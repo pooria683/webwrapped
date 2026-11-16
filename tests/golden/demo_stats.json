@@ -1,0 +1,189 @@
+{
+  "active_days": 56,
+  "busiest_day": {
+    "date": "2025-03-03",
+    "visits": 3
+  },
+  "busiest_hour": 1,
+  "chromium_limited_hint": false,
+  "coverage_days": 358,
+  "eras": [
+    {
+      "category": "dev",
+      "end_week": "2025-W44",
+      "label": "Your Dev Era",
+      "start_week": "2025-W43",
+      "visits": 4,
+      "weeks": 2
+    },
+    {
+      "category": "video",
+      "end_week": "2025-W12",
+      "label": "Your Video Era",
+      "start_week": "2025-W11",
+      "visits": 3,
+      "weeks": 2
+    },
+    {
+      "category": "video",
+      "end_week": "2025-W48",
+      "label": "Your Video Era",
+      "start_week": "2025-W47",
+      "visits": 3,
+      "weeks": 2
+    },
+    {
+      "category": "dev",
+      "end_week": "2025-W07",
+      "label": "Your Dev Era",
+      "start_week": "2025-W06",
+      "visits": 2,
+      "weeks": 2
+    },
+    {
+      "category": "news",
+      "end_week": "2025-W17",
+      "label": "Your News Era",
+      "start_week": "2025-W16",
+      "visits": 2,
+      "weeks": 2
+    }
+  ],
+  "estimated_hours": 5.2,
+  "first_visit": "2025-01-02",
+  "last_visit": "2025-12-25",
+  "longest_streak_days": 3,
+  "loyal_sites": [
+    {
+      "days_seen": 12,
+      "site": "google.com",
+      "visits": 12
+    },
+    {
+      "days_seen": 12,
+      "site": "youtube.com",
+      "visits": 14
+    },
+    {
+      "days_seen": 9,
+      "site": "bbc.co.uk",
+      "visits": 9
+    },
+    {
+      "days_seen": 7,
+      "site": "amazon.co.uk",
+      "visits": 8
+    },
+    {
+      "days_seen": 7,
+      "site": "github.com",
+      "visits": 8
+    },
+    {
+      "days_seen": 6,
+      "site": "stackoverflow.com",
+      "visits": 6
+    },
+    {
+      "days_seen": 2,
+      "site": "reddit.com",
+      "visits": 2
+    },
+    {
+      "days_seen": 2,
+      "site": "wikipedia.org",
+      "visits": 2
+    },
+    {
+      "days_seen": 1,
+      "site": "seriouseats.com",
+      "visits": 1
+    }
+  ],
+  "most_revisited_page": {
+    "title": "Watched Tiny Desk Concert",
+    "url": "https://youtube.com/watch?v=demo",
+    "visits": 14
+  },
+  "night_owl_score": 29.0,
+  "rabbit_holes": [],
+  "searches": {
+    "after_midnight": [
+      {
+        "count": 4,
+        "query": "how do octopuses dream"
+      },
+      {
+        "count": 4,
+        "query": "is it too late to make pancakes"
+      },
+      {
+        "count": 4,
+        "query": "why is the moon orange"
+      }
+    ],
+    "top": [
+      {
+        "count": 4,
+        "query": "how do octopuses dream"
+      },
+      {
+        "count": 4,
+        "query": "is it too late to make pancakes"
+      },
+      {
+        "count": 4,
+        "query": "why is the moon orange"
+      }
+    ],
+    "total": 12
+  },
+  "source_counts": {
+    "demo": 50,
+    "takeout-search": 12
+  },
+  "top_sites": [
+    {
+      "site": "youtube.com",
+      "visits": 14
+    },
+    {
+      "site": "google.com",
+      "visits": 12
+    },
+    {
+      "site": "bbc.co.uk",
+      "visits": 9
+    },
+    {
+      "site": "amazon.co.uk",
+      "visits": 8
+    },
+    {
+      "site": "github.com",
+      "visits": 8
+    },
+    {
+      "site": "stackoverflow.com",
+      "visits": 6
+    },
+    {
+      "site": "reddit.com",
+      "visits": 2
+    },
+    {
+      "site": "wikipedia.org",
+      "visits": 2
+    },
+    {
+      "site": "seriouseats.com",
+      "visits": 1
+    }
+  ],
+  "total_visits": 62,
+  "year": 2025,
+  "youtube": {
+    "top_channels": [],
+    "watch_url_visits": 14
+  }
+}
